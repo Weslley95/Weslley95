@@ -4,7 +4,7 @@
     </h3>
 </div>
 
-###
+##
 
 <div>
     <p>
@@ -36,7 +36,7 @@
     <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-###
+##
 
 <div>
     <h3>
@@ -46,7 +46,7 @@
     <a href = "https://lms.setupnow.com.br/" target="_blank"><img src="https://img.shields.io/website-up-LMS-green-red/http/cv.lbesson.qc.to.svg" target="_blank"></a>
 </div>
 
-###
+##
 
 <div>
     <h3>
