@@ -4,15 +4,13 @@
     </h3>
 </div>
 
-##
-
 <div>
     <p>
         Passionate about back-end development, big data and machine learning.
     </p>
 </div>
 
-<br>
+##
 
 <div>
     <h3>
