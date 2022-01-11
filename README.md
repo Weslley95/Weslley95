@@ -49,8 +49,8 @@
     <h3>
         Website
     </h3>
-    <a href = "https://setupnow.com.br/"><img src="https://img.shields.io/website-SetupNow-down-green-red/http/monip.org.svg" target="_blank"></a>
-    <a href = "https://lms.setupnow.com.br/"><img src="https://img.shields.io/website-up-LMS-green-red/http/cv.lbesson.qc.to.svg" target="_blank"></a>
+    <a href = "https://setupnow.com.br/" target="_blank"><img src="https://img.shields.io/website-SetupNow-down-green-red/http/monip.org.svg" target="_blank"></a>
+    <a href = "https://lms.setupnow.com.br/" target="_blank"><img src="https://img.shields.io/website-up-LMS-green-red/http/cv.lbesson.qc.to.svg" target="_blank"></a>
 </div>
 
 ##
